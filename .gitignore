@@ -138,4 +138,3 @@ workspace.code-workspace
 results
 log_dir/*
 work_dir/*
-configs/*
